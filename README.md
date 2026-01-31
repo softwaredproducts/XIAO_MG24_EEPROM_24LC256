@@ -32,4 +32,4 @@ Seeed XIAO MG24からI2CのEEPROM 24LC256を制御するサンプルプログラ
   - [I2C_EEPROM](https://github.com/RobTillaart/I2C_EEPROM) 
 
 ### 動作確認状況
-- https://youtu.be/k8kYMyaQxIk
+- https://youtu.be/LxcLuHeuFsM
